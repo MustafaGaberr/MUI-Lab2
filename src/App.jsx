@@ -1,14 +1,21 @@
 import React from 'react'
 import './App.css'
-import Index from './pages/index'
+import Page2 from './pages/Page2'
+import Page1 from './pages/page1'
 import Nav from './components/Nav'
 
 function App() {
 
   return (
     <>
+
       <Nav />
-      <Index />
+      {/* <Page2 /> */}
+      <Page1 />
+
+
+
+
     </>
   )
 }

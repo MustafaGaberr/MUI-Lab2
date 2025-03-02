@@ -14,7 +14,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import Grid_ from '../components/grid';
 
-const Index = () => {
+const Page2 = () => {
     return (
         <>
             <Container maxWidth="lg" sx={{ mt: 20 }}>
@@ -65,4 +65,4 @@ const Index = () => {
     );
 };
 
-export default Index;
+export default Page2;
